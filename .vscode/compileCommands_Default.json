@@ -1,0 +1,42 @@
+[
+	{
+		"file": "/Users/ronghua/Documents/Unreal Projects/s2024_pcg/Source/s2024_pcg/PCGSelfProximitySettings.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/ronghua/Documents/Unreal Projects/s2024_pcg/.vscode/compileCommands_Default/s2024_pcg.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/ronghua/Documents/Unreal Projects/s2024_pcg/Source/s2024_pcg/PCGSelfProximitySettings.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/ronghua/Documents/Unreal Projects/s2024_pcg/.vscode/compileCommands_Default/s2024_pcg.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/ronghua/Documents/Unreal Projects/s2024_pcg/Source/s2024_pcg/s2024_pcg.Build.cs",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/ronghua/Documents/Unreal Projects/s2024_pcg/.vscode/compileCommands_Default/s2024_pcg.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/ronghua/Documents/Unreal Projects/s2024_pcg/Source/s2024_pcg/s2024_pcg.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/ronghua/Documents/Unreal Projects/s2024_pcg/.vscode/compileCommands_Default/s2024_pcg.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	},
+	{
+		"file": "/Users/ronghua/Documents/Unreal Projects/s2024_pcg/Source/s2024_pcg/s2024_pcg.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/ronghua/Documents/Unreal Projects/s2024_pcg/.vscode/compileCommands_Default/s2024_pcg.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
+	}
+]
