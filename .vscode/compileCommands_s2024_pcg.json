@@ -1,6 +1,6 @@
 [
 	{
-		"file": "/Users/ronghua/Documents/Unreal Projects/s2024_pcg/Source/s2024_pcg/PCGSelfProximitySettings.cpp",
+		"file": "/Users/ronghua/Documents/Unreal Projects/s2024_pcg/Source/s2024_pcg/PCGGenerateFoliageSettings.cpp",
 		"arguments": [
 			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
 			"@/Users/ronghua/Documents/Unreal Projects/s2024_pcg/.vscode/compileCommands_s2024_pcg/s2024_pcg.1.rsp"
@@ -8,7 +8,7 @@
 		"directory": "/Users/Shared/Epic Games/UE_5.4/Engine/Source"
 	},
 	{
-		"file": "/Users/ronghua/Documents/Unreal Projects/s2024_pcg/Source/s2024_pcg/PCGSelfProximitySettings.h",
+		"file": "/Users/ronghua/Documents/Unreal Projects/s2024_pcg/Source/s2024_pcg/PCGGenerateFoliageSettings.h",
 		"arguments": [
 			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
 			"@/Users/ronghua/Documents/Unreal Projects/s2024_pcg/.vscode/compileCommands_s2024_pcg/s2024_pcg.1.rsp"
